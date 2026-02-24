@@ -12,7 +12,7 @@
 
 ## 👥 Team Members
 - John - CAD, Mechanical Design
-- Alicia – Coding, testing and validation
+- Alicia – Coding, testing, and validation
 - Larbi – Research, Schematics, PCB Design
 
 ---
@@ -57,7 +57,8 @@
 1. Browse **Design/** for system architecture and decisions.  
 2. See **Logs/** for weekly progress.  
 3. Check **Tasks/** for what’s pending and completed.  
-4. Read **Definition/** for the official project scope.  
+4. Read **Definition/** for the official project scope.
+5. Open **Software** for Arduino code. 
 
 ---
 
