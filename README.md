@@ -58,7 +58,7 @@
 2. See **Logs/** for weekly progress.  
 3. Check **Tasks/** for what’s pending and completed.  
 4. Read **Definition/** for the official project scope.
-5. Open **Software** for Arduino code. 
+5. Open **Software/** for Arduino code. 
 
 ---
 
