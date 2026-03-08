@@ -7,9 +7,7 @@
 ## 📸 Demo
 <img width="1281" height="921" alt="image" src="https://github.com/user-attachments/assets/fb0f5fe0-8d2d-4c9d-8576-1f576b1a7521" />
 
-
-> _📷 Add a photo or GIF of the arm in action here_
-> _(Tip: Upload to the repo and reference it like: `![Demo](images/demo.gif)`)_
+> [Demo]images/demo.gif
 
 ---
 
