@@ -7,7 +7,7 @@
 ## 📸 Demo
 ![Wireless Gesture-Controlled Robotic Arm](Images/Robot.jpg)
 
-🎥 [Watch Full Demo Video]((https://drive.google.com/drive/folders/1Te0tW6EEjBbD6eXdm4avNDmqE-6lIaKK?usp=drive_link))
+🎥 [Watch Full Demo Video](https://drive.google.com/drive/folders/1Te0tW6EEjBbD6eXdm4avNDmqE-6lIaKK?usp=drive_link)
 
 ---
 
