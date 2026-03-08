@@ -1,7 +1,7 @@
 # Project Definition
 
 ## Project Title
-5DOF robot controlled by MPU6050
+6DOF robot controlled by MPU6050
 
 ## Team Members
 - John Yalley (role: CAD Model and Component selection)
