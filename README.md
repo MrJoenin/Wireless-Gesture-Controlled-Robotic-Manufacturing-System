@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Demo
-![Wireless Gesture-Controlled Robotic Arm](images/Robot.jpg)
+![Wireless Gesture-Controlled Robotic Arm](Images/Robot.jpg)
 <img width="1281" height="921" alt="image" src="https://github.com/user-attachments/assets/fb0f5fe0-8d2d-4c9d-8576-1f576b1a7521" />
 
 ---
