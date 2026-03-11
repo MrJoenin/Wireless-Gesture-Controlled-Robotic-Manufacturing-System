@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J10";"PinSocket_1x04_P2.54mm_Vertical";1;"I2C Display";;;
+2;"J6";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"battery";;;
+3;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
+4;"J9";"PinSocket_1x04_P2.54mm_Vertical";1;"Sensor2";;;
+5;"J8";"PinSocket_1x04_P2.54mm_Vertical";1;"Sensor1";;;
+6;"J7";"PinSocket_1x04_P2.54mm_Vertical";1;"RF Reciver";;;
+7;"C1";"CP_Radial_D10.0mm_P2.50mm";1;"1000uf";;;
+8;"U1";"MPS_LGA-18-10EP_12x12mm_P3.3mm";1;"MPM3550EGLE";;;
+9;"M5,M4,M3,M1";"PinHeader_1x03_P2.54mm_Vertical";4;"Base";;;
+10;"M2";"PinHeader_1x03_P2.54mm_Vertical";1;"Shoulder";;;
+11;"J1";"PinSocket_1x08_P2.54mm_Vertical";1;"Power";;;
+12;"J3";"PinSocket_1x06_P2.54mm_Vertical";1;"Analog";;;
+13;"J2";"PinSocket_1x10_P2.54mm_Vertical";1;"Digital/PWM";;;
+14;"J4";"PinSocket_1x08_P2.54mm_Vertical";1;"Digital/PWM";;;

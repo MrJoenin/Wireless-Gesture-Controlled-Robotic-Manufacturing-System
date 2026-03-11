@@ -1,0 +1,16 @@
+### Footprint positions - created on 2025-12-20T19:32:35-0500 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                                 PosX       PosY       Rot  Side
+D1        LED          LED_D3.0mm                                           61.0000    42.7250   90.0000  top
+DS1       WC1602A      PinSocket_1x16_P2.54mm_Vertical                       7.5000    46.1000    0.0000  top
+J1        Power        PinSocket_1x08_P2.54mm_Vertical                      27.9400     2.5400   90.0000  top
+J2        Digital/PWM  PinSocket_1x10_P2.54mm_Vertical                      18.7960    50.8000   90.0000  top
+J3        Analog       PinSocket_1x06_P2.54mm_Vertical                      50.8000     2.5400   90.0000  top
+J4        Digital/PWM  PinSocket_1x08_P2.54mm_Vertical                      45.7200    50.8000   90.0000  top
+J5        transmitter  PinSocket_1x03_P2.54mm_Vertical                      59.0000    31.0400    0.0000  top
+R1        220          R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal    49.6500    39.0000    0.0000  top
+R2        220          R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal    26.6500    13.8500    0.0000  top
+SW1       SW_Push      SW_PUSH_6mm                                          58.7500    19.2500    0.0000  top
+## End
