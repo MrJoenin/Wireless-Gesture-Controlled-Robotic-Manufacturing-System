@@ -1,6 +1,6 @@
 # 🦾 Wireless Gesture-Controlled Robotic Manufacturing System
 
-> A 6-DOF robotic arm controlled wirelessly in real-time using hand gestures captured by an MPU6050 IMU and transmitted via RF communication.
+A 6-DOF robotic arm controlled wirelessly in real-time using hand gestures captured by an MPU6050 IMU and transmitted via RF communication.
 
 ---
 
