@@ -138,7 +138,7 @@ Wireless-Gesture-Controlled-Robotic-Manufacturing-System/
 
 ## 🧩 Challenges & What We Learned
 
-- **Servo power management** — Powering all 6 servos from Arduino caused brownouts. Fixed by using a dedicated external supply with a shared ground.
+- **Servo power management** — Powering all 6 servos from the Arduino caused brownouts. Fixed by using a dedicated external supply with a shared ground.
 - **RF signal reliability** — Raw RF is noisy; added basic packet validation to prevent erratic servo movement from corrupted signals.
 - **IMU drift** — Raw gyroscope data drifts over time. Applied a complementary filter combining accelerometer + gyroscope data for stable, accurate readings.
 - **PCB design iteration** — First PCB revision had routing issues; KiCad's DRC tool helped catch and fix them before fabrication.
@@ -151,6 +151,7 @@ Wireless-Gesture-Controlled-Robotic-Manufacturing-System/
 - [ ] Add inverse kinematics for coordinate-based positioning
 - [ ] Implement a mobile app as an alternative controller
 - [ ] Add force feedback on the gripper
+- [ ] Update Receiver and Transmitter PCB
 
 ---
 
